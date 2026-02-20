@@ -4,7 +4,7 @@
     <img src="https://user-images.githubusercontent.com/133691757/246615614-94becd36-535d-4b8c-bac5-828b92c18169.png">
   </div>
 
-This repository contains the collaborative project called HotelManagementSystem, which is our first project. It is a comprehensive hotel management system designed to streamline operations and enhance the guest experience.
+This repository contains the collaborative project called HotelManagementSystem. It is a comprehensive hotel management system designed to streamline operations and enhance the guest experience.
 
 
 ## 📷 Screenshots 
